@@ -46,7 +46,11 @@ class JobDetails extends Component {
   }
 
   jobParticle = (details, show, altText) => {
+<<<<<<< HEAD
     const data = 'hello'
+=======
+    const data = 'eho'
+>>>>>>> parent of 4411561... completed project
     return (
       <div className="first">
         <div className="jobDetails-first-section">
