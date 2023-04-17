@@ -1,0 +1,41 @@
+.header-cont {
+  background-color: #262522;
+  color: white;
+  padding: 1px 40px;
+}
+.website-logo-button {
+  background-color: transparent;
+  border: none;
+}
+
+.header-cont ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.header-list {
+  list-style: none;
+  color: white;
+}
+
+.header-list-link {
+  color: white;
+  margin: 0px 10px;
+  text-decoration: none;
+}
+.active {
+  color: #5c66e7;
+}
+.header-logo {
+  width: 100px;
+}
+
+.header-logout-btn {
+  background-color: #5c66e7;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 20px;
+  color: white;
+}

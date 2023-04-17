@@ -1,0 +1,84 @@
+.jobDetails-cont {
+  color: white;
+  background-color: #272625;
+  width: 70%;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.skills-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px 0px;
+}
+
+.skill-list-item {
+  margin: 20px 50px 20px 0px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 200px;
+}
+.skill-heading {
+  font-size: 16px;
+  margin-top: 40px;
+}
+
+.skill-img {
+  width: 50px;
+}
+
+.third {
+  display: flex;
+  gap: 20%;
+}
+
+.about-company h1 {
+  font-size: 16px;
+  margin: 0px 10px 10px 0px;
+}
+.about-company p {
+  font-size: 12px;
+}
+
+.fourth {
+  width: 70%;
+  margin: auto;
+}
+
+.fourth-inner {
+  display: flex;
+  flex-direction: row;
+}
+.relatedJobs-list {
+  background-color: #272625;
+  color: white;
+  margin-right: 20px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.similar-heading {
+  color: white;
+  margin: -30px 0px 10px 0px;
+  font-size: 20px;
+}
+
+.dis-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.link-cont {
+  color: blueviolet;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+.link-cont a {
+  color: blueviolet;
+  text-decoration: none;
+}
