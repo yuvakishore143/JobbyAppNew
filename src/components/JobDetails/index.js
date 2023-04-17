@@ -46,7 +46,7 @@ class JobDetails extends Component {
   }
 
   jobParticle = (details, show, altText) => {
-    const data = 'ehellho'
+    const data = 'hello'
     return (
       <div className="first">
         <div className="jobDetails-first-section">
